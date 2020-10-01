@@ -1,0 +1,11 @@
+Notes for git
+git add --all
+git status
+git commit -m "write comment here"
+git push
+
+
+cd Documents/
+cd github-pages/
+cd danawr8.github.io
+
